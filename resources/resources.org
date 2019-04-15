@@ -4,3 +4,14 @@
 
 What follows is an overview of useful resources (links,
 papers, software, etc.) for the Type Theory Reading Group.
+
+* Links
+
+** Effects
+
+- [[https://www.janestreet.com/tech-talks/effective-programming/][Effective Programming: Adding an Effect System to OCaml]]
+
+  A medium-length talk by Leo White (just over an hour) in
+  which he introduces work adding support for algebraic
+  effects to OCaml, along with support for distinguishing
+  impure and pure functions.
