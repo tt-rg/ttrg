@@ -1,0 +1,6 @@
+#+TITLE: TTRG - Resources
+
+* Introduction
+
+What follows is an overview of useful resources (links,
+papers, software, etc.) for the Type Theory Reading Group.

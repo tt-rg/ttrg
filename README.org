@@ -8,3 +8,8 @@ theory.
 
 We hope to cover reading material, implementations, and novel
 explorations.
+
+* Resources
+
+An overview of accumulated resources can be found in
+[[file:resources/resources.org][resources/resources.org]].
