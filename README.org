@@ -1,0 +1,10 @@
+#+TITLE: README (TTRG)
+
+* What is the `Type Theory Reading Group'?
+
+The Type Theory Reading Group is a reading group for
+like-minded individuals interested in topics centred on type
+theory.
+
+We hope to cover reading material, implementations, and novel
+explorations.
