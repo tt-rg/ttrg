@@ -1,4 +1,5 @@
 #+TITLE: TTRG - Resources
+#+OPTIONS: author:nil date:nil email:nil
 
 * Introduction
 
