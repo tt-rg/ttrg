@@ -16,3 +16,50 @@ papers, software, etc.) for the Type Theory Reading Group.
   which he introduces work adding support for algebraic
   effects to OCaml, along with support for distinguishing
   impure and pure functions.
+
+** Singletons
+
+- [[https://stackoverflow.com/questions/16017294/singleton-types-in-haskell][Singleton types in Haskell - Stack Overflow]]
+
+  A question about the difference between singleton types and
+  type classes, as well as a request for the importance of
+  using singletons, and the extent to which they can support
+  dependently-typed programming.
+
+  I suggest reading [[https://stackoverflow.com/questions/16017294/singleton-types-in-haskell/16018937#16018937][Dominic's answer]], where he makes the
+  following points:
+
+  - in a type theory that allows types to depend on types,
+    singleton types can be used to let types depend upon
+    singleton values;
+  - in contrast, type classes provide /ad hoc polymorphism/,
+    i.e., supporting the dependency of /values upon types/
+
+  Dominic goes on to give the following example of the use of
+  singletons to define the dependently-typed successor
+  function:
+
+  #+BEGIN_SRC haskell
+    data S n = Succ n
+    data Z   = Zero
+
+    class Nat n
+    instance Nat Z
+    instance Nat n => Nat (S n)
+
+    succ :: Nat n => n -> S n
+    succ n = Succ n
+  #+END_SRC
+
+  And follows with an example of the use of GADTs to
+  parameterise non-singleton types with singleton types:
+
+  #+BEGIN_SRC haskell
+    data List n a where
+      Nil  :: List Z a
+      Cons :: Nat n => a -> List n a -> List (S n) a
+  #+END_SRC
+
+  Dominic concludes by describing how singleton types provide
+  a kind of \Pi-type, where =Nat n => n -> S n= is analogous
+  to $\prod\limits_{n : \mathrm{Nat}}(n \rightarrow S(n))$.
