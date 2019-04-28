@@ -8,6 +8,21 @@ papers, software, etc.) for the Type Theory Reading Group.
 
 * Links
 
+** Repositories
+
+The following pages are repositories for more links, i.e.,
+they are pages that link to pages. Many of these are links to
+personal webpages, from which papers, works, and projects are
+accessible.
+
+- [[https://www.jonmsterling.com/][Jon Sterling]]
+
+  Main research areas: type theory, programming languages,
+  semantics.
+
+  Jon has quite a lot of work on dependent type theory, modal
+  type theory, and cartesian cubical type theory.
+
 ** Cartesian Cubical Type Theory
 
 - [[https://github.com/RedPRL/redtt][GitHub - RedPRL/redtt: "Between the darkness and the dawn, a
