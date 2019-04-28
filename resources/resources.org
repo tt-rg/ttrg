@@ -23,6 +23,36 @@ accessible.
   Jon has quite a lot of work on dependent type theory, modal
   type theory, and [[CCTT][cartesian cubical type theory]].
 
+** Miscellaneous
+
+Not sure where else to put these, @ me on GitHub or Slack, or
+ping me an e-mail if you have any suggestions.
+
+- [[http://typetheorypodcast.com/][The Type Theory Podcast]]
+
+  A podcast about type theory! Run by David Christiansen,
+  Darin Morrison, and [[Jon Sterling]].
+
+  Only six episodes (as of [2019-04-28 Sun]), so I'll list
+  them here. These all sound very interesting!
+
+  - [[http://typetheorypodcast.com/2014/08/episode-1-peter-dybjer-on-type-theory-and-testing/][Episode 1: Peter Dybjer on types and testing]]
+
+  - [[http://typetheorypodcast.com/2014/09/episode-2-edwin-brady-on-idris/][Episode 2: Edwin Brady on Idris]]
+
+  - [[http://typetheorypodcast.com/2015/01/episode-3-dan-licata-on-homotopy-type-theory/][Episode 3: Dan Licata on Homotopy Type Theory]]
+
+  - [[http://typetheorypodcast.com/2015/04/episode-4-stephanie-weirich-on-zombie-and-dependent-haskell/][Episode 4: Stephanie Weirich on Zombie and Dependent
+    Haskell]]
+
+  - [[http://typetheorypodcast.com/2015/08/episode-5-bob-constable-on-ctt-and-nuprl/][Episode 5: Bob Constable on CTT and Nuprl]]
+
+  - [[http://typetheorypodcast.com/2016/12/episode-6-aaron-stump-on-cedille/][Episode 6: Aaron Stump on Cedille]]
+
+  If these episodes should disappear for some reason, @ me on
+  Slack or GitHub, or ping me an e-mail, and I'll send you MP3
+  copies.
+
 ** Cartesian Cubical Type Theory<<CCTT>>
 
 - [[https://github.com/RedPRL/redtt][GitHub - RedPRL/redtt: "Between the darkness and the dawn, a
