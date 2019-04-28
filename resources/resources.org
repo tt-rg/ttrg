@@ -15,7 +15,7 @@ they are pages that link to pages. Many of these are links to
 personal webpages, from which papers, works, and projects are
 accessible.
 
-- [[https://www.jonmsterling.com/][Jon Sterling]]
+- [[https://www.jonmsterling.com/][Jon Sterling]]<<Jon Sterling>>
 
   Main research areas: type theory, programming languages,
   semantics.
@@ -29,12 +29,16 @@ accessible.
   red cube rises!": a proof assistant for cartesian cubical
   type theory]]
 
-  "redtt is a core language for cartesian cubical type theory
-  with extension types. We plan to build an extensible
-  interactive proof assistant around it, using ideas from
-  proof assistants like RedPRL, Epigram, and Idris."
+  From the README:
 
-- [[http://www.redprl.org/en/latest/][The RedPRL Proof Assistant — RedPRL documentation]]
+  #+BEGIN_QUOTE
+  redtt is a core language for cartesian cubical type theory
+  with extension types. We [[[Jon Sterling][Jon Sterling]] et al.] plan to build
+  an extensible interactive proof assistant around it, using
+  ideas from proof assistants like [[RedPRL][RedPRL]], Epigram, and Idris.
+  #+END_QUOTE
+
+- [[http://www.redprl.org/en/latest/][The RedPRL Proof Assistant — RedPRL documentation]]<<RedPRL>>
 
   From the webpage:
 
