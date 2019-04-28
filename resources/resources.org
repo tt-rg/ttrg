@@ -33,7 +33,7 @@ any suggestions.
 - [[http://typetheorypodcast.com/][The Type Theory Podcast]]
 
   A podcast about type theory! Run by David Christiansen,
-  Darin Morrison, and [[Jon Sterling]].
+  Darin Morrison, and [[Jon Sterling][Jon Sterling]].
 
   Only six episodes (as of [2019-04-28 Sun]), so I'll list
   them here. These all sound very interesting!
