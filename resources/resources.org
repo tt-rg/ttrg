@@ -1,6 +1,8 @@
 #+TITLE: TTRG - Resources
 #+OPTIONS: author:nil date:nil email:nil
 
+#+MACRO: contact-me @ me on Slack or GitHub, or ping me an e-mail
+
 * Introduction
 
 What follows is an overview of useful resources (links,
@@ -25,8 +27,8 @@ accessible.
 
 ** Miscellaneous
 
-Not sure where else to put these, @ me on GitHub or Slack, or
-ping me an e-mail if you have any suggestions.
+Not sure where else to put these, {{{contact-me}}} if you have
+any suggestions.
 
 - [[http://typetheorypodcast.com/][The Type Theory Podcast]]
 
@@ -49,9 +51,8 @@ ping me an e-mail if you have any suggestions.
 
   - [[http://typetheorypodcast.com/2016/12/episode-6-aaron-stump-on-cedille/][Episode 6: Aaron Stump on Cedille]]
 
-  If these episodes should disappear for some reason, @ me on
-  Slack or GitHub, or ping me an e-mail, and I'll send you MP3
-  copies.
+  If these episodes should disappear for some reason,
+  {{{contact-me}}}, and I'll send you MP3 copies.
 
 ** Cartesian Cubical Type Theory<<CCTT>>
 
