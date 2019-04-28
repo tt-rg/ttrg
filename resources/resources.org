@@ -8,6 +8,17 @@ papers, software, etc.) for the Type Theory Reading Group.
 
 * Links
 
+** Cartesian Cubical Type Theory
+
+- [[https://github.com/RedPRL/redtt][GitHub - RedPRL/redtt: "Between the darkness and the dawn, a
+  red cube rises!": a proof assistant for cartesian cubical
+  type theory]]
+
+  "redtt is a core language for cartesian cubical type theory
+  with extension types. We plan to build an extensible
+  interactive proof assistant around it, using ideas from
+  proof assistants like RedPRL, Epigram, and Idris."
+
 ** Effects
 
 - [[https://www.janestreet.com/tech-talks/effective-programming/][Effective Programming: Adding an Effect System to OCaml]]
