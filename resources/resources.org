@@ -25,6 +25,15 @@ accessible.
   Jon has quite a lot of work on dependent type theory, modal
   type theory, and [[CCTT][cartesian cubical type theory]].
 
+  - Doctoral student of [[Robert Harper][Robert Harper]]
+
+- [[https://www.cs.cmu.edu/~rwh/][Robert Harper's Home Page]]<<Robert Harper>>
+
+  - Has worked on type theory, homotopy type theory, [[CCTT][cartesian
+    cubical computational type theory]], computational higher
+    type theory, constructive logic, [[Standard ML][Standard ML]], and
+    programming language foundations
+
 ** Miscellaneous
 
 Not sure where else to put these, {{{contact-me}}} if you have
