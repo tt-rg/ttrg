@@ -21,9 +21,9 @@ accessible.
   semantics.
 
   Jon has quite a lot of work on dependent type theory, modal
-  type theory, and cartesian cubical type theory.
+  type theory, and [[CCTT][cartesian cubical type theory]].
 
-** Cartesian Cubical Type Theory
+** Cartesian Cubical Type Theory<<CCTT>>
 
 - [[https://github.com/RedPRL/redtt][GitHub - RedPRL/redtt: "Between the darkness and the dawn, a
   red cube rises!": a proof assistant for cartesian cubical
@@ -32,7 +32,7 @@ accessible.
   From the README:
 
   #+BEGIN_QUOTE
-  redtt is a core language for cartesian cubical type theory
+  redtt is a core language for [[CCTT][cartesian cubical type theory]]
   with extension types. We [[[Jon Sterling][Jon Sterling]] et al.] plan to build
   an extensible interactive proof assistant around it, using
   ideas from proof assistants like [[RedPRL][RedPRL]], Epigram, and Idris.
@@ -43,8 +43,8 @@ accessible.
   From the webpage:
 
   #+BEGIN_QUOTE
-  RedPRL is an experimental proof assistant based on cubical
-  computational type theory, which extends the Nuprl semantics
+  RedPRL is an experimental proof assistant based on [[CCTT][cubical
+  computational type theory]], which extends the Nuprl semantics
   by higher-dimensional features inspired by homotopy type
   theory.
   #+END_QUOTE
