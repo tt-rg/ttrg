@@ -34,6 +34,17 @@ accessible.
   interactive proof assistant around it, using ideas from
   proof assistants like RedPRL, Epigram, and Idris."
 
+- [[http://www.redprl.org/en/latest/][The RedPRL Proof Assistant — RedPRL documentation]]
+
+  From the webpage:
+
+  #+BEGIN_QUOTE
+  RedPRL is an experimental proof assistant based on cubical
+  computational type theory, which extends the Nuprl semantics
+  by higher-dimensional features inspired by homotopy type
+  theory.
+  #+END_QUOTE
+
 ** Effects
 
 - [[https://www.janestreet.com/tech-talks/effective-programming/][Effective Programming: Adding an Effect System to OCaml]]
