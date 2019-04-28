@@ -135,3 +135,12 @@ any suggestions.
   Dominic concludes by describing how singleton types provide
   a kind of \Pi-type, where =Nat n => n -> S n= is analogous
   to $\prod\limits_{n : \mathrm{Nat}}(n \rightarrow S(n))$.
+
+** Standard ML
+
+- [[http://sml-family.org/][Standard ML Family GitHub Project]]
+
+  Main webpage for the Standard ML family GitHub project.
+
+  The page provides links to many formal definitions of ML, as
+  well as a host of other Standard ML-related resources.
