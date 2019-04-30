@@ -110,6 +110,16 @@ any suggestions.
   useful sources. Recommended reading when learning about
   modal logic, or as reference material.
 
+** Propositional Logic
+
+- [[https://www.iep.utm.edu/prop-log/][Propositional Logic | Internet Encyclopedia of Philosophy]]
+
+  Overview of propositional logic. Includes an overview of the
+  history, syntax and semantics, proof by natural deduction,
+  some metatheoretic results for the propositional calculus,
+  and briefly touches on [[modal-logic][modal propositional logic]]. The page
+  also includes suggestions for further reading.
+
 ** Singletons
 
 - [[https://stackoverflow.com/questions/16017294/singleton-types-in-haskell][Singleton types in Haskell - Stack Overflow]]
