@@ -98,6 +98,14 @@ any suggestions.
   effects to OCaml, along with support for distinguishing
   impure and pure functions.
 
+** Modal Logic<<modal-logic>>
+
+- [[https://plato.stanford.edu/entries/logic-modal/][Modal Logic (Stanford Encyclopedia of Philosophy)]]
+
+  A nice overview of modal logic, with references to many
+  useful sources. Recommended reading when learning about
+  modal logic, or as reference material.
+
 ** Singletons
 
 - [[https://stackoverflow.com/questions/16017294/singleton-types-in-haskell][Singleton types in Haskell - Stack Overflow]]
