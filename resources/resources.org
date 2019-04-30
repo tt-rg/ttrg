@@ -104,11 +104,31 @@ any suggestions.
 
 ** Modal Logic<<modal-logic>>
 
+*** Modal Logic Overviews
+
+If you're wondering where to start with modal logic, I
+recommend checking out the following resources:
+
 - [[https://plato.stanford.edu/entries/logic-modal/][Modal Logic (Stanford Encyclopedia of Philosophy)]]
 
   A nice overview of modal logic, with references to many
   useful sources. Recommended reading when learning about
   modal logic, or as reference material.
+
+*** Some approaches to modal logic
+
+- [[https://www.iep.utm.edu/cmlogic/][Carnap: Modal Logic | Internet Encyclopedia of Philosophy]]
+
+  An overview of Rudolf Carnap's Modal Logic.
+
+  Quoting from the overview:
+
+  #+BEGIN_QUOTE
+  Carnap tells us early in his article that "the guiding idea
+  in our construction of systems of modal logic is this: a
+  proposition p is logically necessary if and only if a
+  sentence expressing p is logically true."
+  #+END_QUOTE
 
 ** Propositional Logic
 
