@@ -27,6 +27,10 @@ accessible.
 
   - Doctoral student of [[Robert Harper][Robert Harper]]
 
+- [[http://very.science/][Kenny Foner's homepage]]
+
+  - Has worked on [[modal-logic][modal logic]] and comonads
+
 - [[https://www.cs.cmu.edu/~rwh/][Robert Harper's Home Page]]<<Robert Harper>>
 
   - Has worked on type theory, homotopy type theory, [[CCTT][cartesian
