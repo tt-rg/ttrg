@@ -90,6 +90,13 @@ accessible.
     information on System F_\omega, and touching briefly upon
     dependent types), and higher-order subtyping.
 
+*** Blogs
+
+- [[http://comonad.com/reader/][The Comonad.Reader]]
+
+  A blog that discusses some aspects of substructural logics,
+  dependent types, type systems, and comonads.
+
 ** Miscellaneous
 
 Not sure where else to put these, {{{contact-me}}} if you have
