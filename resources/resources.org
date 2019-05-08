@@ -17,6 +17,8 @@ they are pages that link to pages. Many of these are links to
 personal webpages, from which papers, works, and projects are
 accessible.
 
+*** People
+
 - [[https://www.jonmsterling.com/][Jon Sterling]]<<Jon Sterling>>
 
   Main research areas: type theory, programming languages,
@@ -37,6 +39,56 @@ accessible.
     cubical computational type theory]], computational higher
     type theory, constructive logic, [[Standard ML][Standard ML]], and
     programming language foundations
+
+*** Books
+
+- [[https://www.cis.upenn.edu/~bcpierce/tapl/][Types and Programming Languages]]
+
+  Author: Benjamin Pierce
+
+  Good reference book on initial type-theoretical
+  concepts. Some topics of interest covered include:
+
+  - Untyped Systems (including the Untyped Lambda Calculus)
+  - Simple Types
+    - Progress and Preservation
+    - Simply Typed Lambda Calculus
+      - Curry-Howard Correspondence
+      - Erasure and Typability
+      - Curry-Style vs. Church-Style
+    - Simple Extensions
+
+      The `Simple Extensions' section covers common data types
+      such as unit, pairs, tuples, sums, and
+      lists. Additionally, the section covers records,
+      variants, and general recursion.
+
+    - Normalisation
+    - Exception Handling
+  - Subtyping
+  - Recursive Types
+  - Polymorphism
+    - Type Reconstruction (inference)
+
+      Including information on substitutions, unification, and
+      principle types.
+
+    - Universal Types
+
+      Including information on System F, erasure, typability,
+      type reconstruction, parametricity, and
+      impredicativity.
+
+    - Existential Types
+    - Bounded Quantification
+      - Bounded Existential Types
+
+  - Higher-Order Systems
+
+    This section includes information on type operators and
+    kinding, higher-order polymorphism (including some
+    information on System F_\omega, and touching briefly upon
+    dependent types), and higher-order subtyping.
 
 ** Miscellaneous
 
